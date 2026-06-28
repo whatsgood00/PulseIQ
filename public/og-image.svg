@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0a0a0f"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#111118" stroke="#2a2a35"/>
+  <circle cx="1050" cy="120" r="180" fill="#7c3aed" opacity="0.15"/>
+  <circle cx="150" cy="500" r="140" fill="#4f46e5" opacity="0.12"/>
+  <rect x="120" y="140" width="48" height="48" rx="12" fill="url(#logo)"/>
+  <path d="M132 168 L140 152 L148 164 L156 148 L164 160" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="185" y="175" fill="white" font-family="system-ui,sans-serif" font-size="42" font-weight="700">PulseIQ</text>
+  <text x="120" y="260" fill="#e4e4e7" font-family="system-ui,sans-serif" font-size="52" font-weight="700">Analytics Dashboard</text>
+  <text x="120" y="320" fill="#a1a1aa" font-family="system-ui,sans-serif" font-size="28">Real-time insights for modern SaaS teams</text>
+  <rect x="120" y="380" width="180" height="44" rx="10" fill="#7c3aed"/>
+  <text x="155" y="408" fill="white" font-family="system-ui,sans-serif" font-size="18" font-weight="600">Next.js 16</text>
+  <rect x="320" y="380" width="140" height="44" rx="10" fill="#1f1f28" stroke="#3f3f50"/>
+  <text x="350" y="408" fill="#d4d4d8" font-family="system-ui,sans-serif" font-size="18">React 19</text>
+  <rect x="480" y="380" width="160" height="44" rx="10" fill="#1f1f28" stroke="#3f3f50"/>
+  <text x="510" y="408" fill="#d4d4d8" font-family="system-ui,sans-serif" font-size="18">TypeScript</text>
+  <defs>
+    <linearGradient id="logo" x1="120" y1="140" x2="168" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+</svg>
