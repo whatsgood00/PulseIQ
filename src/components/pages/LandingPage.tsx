@@ -231,7 +231,17 @@ export function LandingPage() {
       </main>
 
       <footer className="relative z-10 border-t border-border py-8 text-center text-sm text-muted-foreground">
-        <p>PulseIQ · Frontend portfolio project · Built with Next.js</p>
+        <p>
+          PulseIQ · Frontend portfolio project ·{" "}
+          <a
+            href="https://pulseiq-ten.vercel.app"
+            className="text-primary hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            pulseiq-ten.vercel.app
+          </a>
+        </p>
       </footer>
     </div>
   );

@@ -28,6 +28,7 @@ export const metadata: Metadata = {
     title: "PulseIQ — Analytics Dashboard",
     description: "Real-time analytics UI for modern SaaS teams. Portfolio project built with Next.js 16 & React 19.",
     type: "website",
+    url: "https://pulseiq-ten.vercel.app",
     images: [{ url: "/og-image.svg", width: 1200, height: 630, alt: "PulseIQ Analytics Dashboard" }],
   },
   twitter: {
