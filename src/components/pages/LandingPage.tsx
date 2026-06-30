@@ -234,12 +234,12 @@ export function LandingPage() {
         <p>
           PulseIQ · Frontend portfolio project ·{" "}
           <a
-            href="https://pulseiq-ten.vercel.app"
+            href="https://github.com/whatsgood00/PulseIQ"
             className="text-primary hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
-            pulseiq-ten.vercel.app
+            GitHub
           </a>
         </p>
       </footer>

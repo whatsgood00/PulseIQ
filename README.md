@@ -4,13 +4,12 @@
 
 **A polished SaaS analytics dashboard — built as a frontend portfolio project**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-pulseiq--ten.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://pulseiq-ten.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**[Live Demo](https://pulseiq-ten.vercel.app)** · **[GitHub](https://github.com/whatsgood00/PulseIQ)** · [Report Bug](https://github.com/whatsgood00/PulseIQ/issues)
+**[GitHub](https://github.com/whatsgood00/PulseIQ)** · [Report Bug](https://github.com/whatsgood00/PulseIQ/issues)
 
 <br />
 
@@ -25,8 +24,6 @@
 **PulseIQ** is a modern analytics dashboard UI inspired by enterprise SaaS products like Mixpanel, Amplitude, and Stripe Dashboard. It showcases production-quality frontend patterns — responsive layouts, data visualization, auth flows, and subscription billing — using **mock data** (no backend required).
 
 > This is a **frontend portfolio project**. All API calls are simulated locally for demo purposes.
-
-**Try it now → [pulseiq-ten.vercel.app](https://pulseiq-ten.vercel.app)**
 
 ---
 
@@ -51,7 +48,6 @@
 - **State** — [Zustand 5](https://zustand-demo.pmnd.rs/) (theme + toasts)
 - **Icons** — [Lucide React](https://lucide.dev/)
 - **Language** — TypeScript 6 · ESLint 9 (flat config)
-- **Deploy** — [Vercel](https://pulseiq-ten.vercel.app)
 
 ---
 
@@ -137,13 +133,14 @@ src/
 
 ---
 
-## Deployment
+## Production
 
-**Live:** [https://pulseiq-ten.vercel.app](https://pulseiq-ten.vercel.app)
+```bash
+npm run build
+npm run start
+```
 
-Deploy your own copy to [Vercel](https://vercel.com) in one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/whatsgood00/PulseIQ)
+Runs the optimized build at [http://localhost:3000](http://localhost:3000).
 
 ---
 
@@ -161,6 +158,6 @@ MIT — free to use for learning and portfolio inspiration.
 
 <div align="center">
 
-**[Live Demo](https://pulseiq-ten.vercel.app)** · [GitHub](https://github.com/whatsgood00/PulseIQ) · Built with Next.js
+[GitHub](https://github.com/whatsgood00/PulseIQ) · Built with Next.js
 
 </div>

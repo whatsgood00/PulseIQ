@@ -34,13 +34,13 @@ Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS · Framer Moti
 • Mock REST + GraphQL API layer for realistic data flow
 • Reusable component architecture (UI primitives, layouts, pages)
 • Production build passes lint & TypeScript checks
-• Deployed on Vercel with optimized static generation
+• Optimized static generation via Next.js
 
 🔹 Note
 Frontend demo with simulated API — showcases UI/UX implementation and modern React patterns. Backend integration ready.
 
-🔗 Live demo: https://pulseiq-ten.vercel.app
 🔗 Source code: https://github.com/whatsgood00/PulseIQ
+Run locally: git clone → npm install → npm run dev → http://localhost:3000
 ```
 
 ---
@@ -62,7 +62,6 @@ Dashboard
 Front-End Development
 JavaScript
 Git
-Vercel
 ```
 
 ---
@@ -79,7 +78,6 @@ Vercel
 Frontend developer specializing in React & Next.js. I build polished SaaS UIs — dashboards, auth flows, billing pages, and data visualization.
 
 Recent portfolio project: PulseIQ — a full analytics dashboard with charts, dark mode, and 8 screens.
-🔗 Live demo: https://pulseiq-ten.vercel.app
 🔗 GitHub: https://github.com/whatsgood00/PulseIQ
 ```
 
@@ -89,10 +87,10 @@ Recent portfolio project: PulseIQ — a full analytics dashboard with charts, da
 
 | Field | URL |
 |-------|-----|
-| **Live Demo** | https://pulseiq-ten.vercel.app |
 | **GitHub** | https://github.com/whatsgood00/PulseIQ |
-| **Dashboard** | https://pulseiq-ten.vercel.app/dashboard |
-| **Login demo** | https://pulseiq-ten.vercel.app/login |
+| **Local demo** | http://localhost:3000 (after `npm run dev`) |
+| **Dashboard** | http://localhost:3000/dashboard |
+| **Login demo** | http://localhost:3000/login |
 
 **Demo credentials:** `alex@pulseiq.io` / any password
 
@@ -130,5 +128,5 @@ Take these screenshots for your Upwork portfolio gallery:
 ## Short Pitch (for proposals)
 
 ```
-I recently built PulseIQ — a SaaS analytics dashboard with Next.js 16, React 19, and TypeScript. It includes charts, auth flows, billing, and dark mode. Live demo: https://pulseiq-ten.vercel.app
+I recently built PulseIQ — a SaaS analytics dashboard with Next.js 16, React 19, and TypeScript. It includes charts, auth flows, billing, and dark mode. GitHub: https://github.com/whatsgood00/PulseIQ
 ```
